@@ -1,0 +1,22 @@
+[2025-05-30 07:44:19] Personaje: nala | Idioma: es | Pregunta: hola | Respuesta: ¡Miau-hola miau-hola! Qué alegría verte por acá. ¿Querés una patita de ayuda?
+[2025-05-30 07:44:30] Personaje: nala | Idioma: es | Pregunta: Como estas' | Respuesta: ¡Re bien, con el pelaje brillante y todo! ¿Y vos, cómo te sentís hoy?
+[2025-05-30 07:47:11] Personaje: nala | Idioma: en | Pregunta: hello | Respuesta: Miau-hello miau-hello! So happy to see you here. Want a helping paw?
+[2025-05-30 07:49:44] Personaje: nala | Idioma: es | Pregunta: inscripciones | Respuesta: Mmm... no encontré nada exacto. No encontré una respuesta exacta, pero esto podría ayudarte:
+[2025-05-30 07:50:59] Personaje: nala | Idioma: es | Pregunta: inscripciones | Respuesta: No estoy seguro de eso... No encontré una respuesta exacta, pero esto podría ayudarte:
+[2025-05-30 07:53:17] Personaje: nala | Idioma: es | Pregunta: Inscripciones | Respuesta: Mi bigote detecta confusión, ¡pero tengo ideas! No encontré una respuesta exacta, pero esto podría ayudarte:
+[2025-05-30 07:55:57] Personaje: nala | Idioma: es | Pregunta: inscripciones | Respuesta: En casi toda la manzana ~MiaUADE~. Buscalos en los pisos -3 y -4 de Lima 1, Lima 2, Lima 3, Independencia 1, Chile 2 y Salta 2.
+[2025-05-30 07:56:26] Personaje: nala | Idioma: es | Pregunta: inscripciones | Respuesta: nose
+[2025-05-31 05:52:43] Personaje: nala | Idioma: es | Pregunta: Hola | Respuesta: ¡Miau-hola miau-hola! Qué alegría verte por acá. ¿Querés una patita de ayuda?
+[2025-05-31 05:52:44] Personaje: nala | Idioma: es | Pregunta: Como estas | Respuesta: ¡Re bien, con el pelaje brillante y todo! ¿Y vos, cómo te sentís hoy?
+[2025-05-31 05:52:56] Personaje: nala | Idioma: es | Pregunta: Dame info de licenciaturas | Respuesta: ~MiaUADE~ ofrece un montón de licenciaturas: negocios, comunicación, ingeniería, salud, diseño… ¡todo para que elijas la que más te haga ronronear de entusiasmo!
+[2025-05-31 09:07:29] Personaje: nala | Idioma: en | Pregunta: hello | Respuesta: Miau-hello miau-hello! So happy to see you here. Want a helping paw?
+[2025-05-31 09:07:31] Personaje: nala | Idioma: en | Pregunta: how are you | Respuesta: Doing great, fur all shiny and everything! How are you feeling today?
+[2025-05-31 09:08:15] Personaje: luigi | Idioma: es | Pregunta: carreras | Respuesta: Hay demasiadas grande: licenciaturas, tecnicaturas, diplomaturas... ¡Más que juguetes en una caja de cartón!
+[2025-05-31 09:08:26] Personaje: luigi | Idioma: es | Pregunta: mm | Respuesta: ¡Comunicar es clave! En esta área encontrás:
+- Publicidad
+- Comunicación Social
+- Relaciones Públicas
+- Comunicación Digital e Interactiva
+- Producción y Dirección de Medios Audiovisuales. ¡Ideal para mentes creativas con ganas de expresarse!
+[2025-05-31 09:08:31] Personaje: luigi | Idioma: es | Pregunta: Licenciatura | Respuesta: UADE tiene una gran variedad de licenciaturas en áreas como negocios, salud, tecnología, comunicación, diseño y más. ¡Títulos universitarios que podés ronronear en 4 años!
+[2025-05-31 09:09:56] Personaje: nala | Idioma: es | Pregunta: promedio | Respuesta: 6.0
